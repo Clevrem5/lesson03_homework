@@ -22,6 +22,7 @@ class CategoriesPage extends StatelessWidget {  // return uchun Categories pageg
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
+      backgroundColor: Colors.orangeAccent, // dastur orqa oynasiga rang qo'yish
 
     );
   }
